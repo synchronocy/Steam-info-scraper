@@ -1,7 +1,7 @@
 #!usr/bin/env python3
 
 # Date: 02-07-18, Feb ~ 7th 2018 | Synchronocy
-# Project: Steam ID Grabber
+# Project: SteamID Info grabber
 # Pretty bad way of doing things, nonetheless simple.
 # IDLE Python 3.6 64-bit
 
